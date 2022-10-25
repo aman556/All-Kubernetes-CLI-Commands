@@ -1,3 +1,9 @@
 # All-Kubernetes-CLI-Commands
-## Basic Command
-- [kubectl create](BasicCommands/create.md)
+## Basic Commands (Beginner)
+- [kubectl create](BasicCommandsBeginner/create.md)
+
+## Basic Commands (Intermediate)
+- [kubectl get](BasicCommandsIntermediate/get.md)
+
+## Cluster Management Commands
+- [kubectl taint](ClusterManagement/taint.md)
